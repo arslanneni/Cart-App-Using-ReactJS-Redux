@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Cart-App-Using-ReactJS-Redux/static/css/main.f5712b06.css",
+    "main.js": "/Cart-App-Using-ReactJS-Redux/static/js/main.8255cfda.js",
+    "index.html": "/Cart-App-Using-ReactJS-Redux/index.html",
+    "main.f5712b06.css.map": "/Cart-App-Using-ReactJS-Redux/static/css/main.f5712b06.css.map",
+    "main.8255cfda.js.map": "/Cart-App-Using-ReactJS-Redux/static/js/main.8255cfda.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5712b06.css",
+    "static/js/main.8255cfda.js"
+  ]
+}
